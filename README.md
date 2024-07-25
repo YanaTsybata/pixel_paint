@@ -1,6 +1,6 @@
 # Pixel Paint
 
-Pixel Paint is a simple pixel art drawing application built with Pygame. It allows users to draw, select colors, and save their creations.
+Pixel Paint is a simple pixel art drawing application built with Pygame.
 
 ## Features
 
