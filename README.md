@@ -26,3 +26,6 @@ Install the pygame:
 4. Click the "Save" button to save your image as a PNG file.
 5. Press the "C" key to clear the canvas.
 
+screenshot:
+<img width="792" alt="Screenshot 2024-07-25 at 16 08 36" src="https://github.com/user-attachments/assets/f540e732-f44d-48d5-bc78-2d1d89e58e63">
+
