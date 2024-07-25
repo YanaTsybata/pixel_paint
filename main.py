@@ -21,7 +21,7 @@ BLACK = (0, 0, 0)
 
 # window creation
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Пиксельный художник")
+pygame.display.set_caption("PIXEL ART")
 
 # Creating a drawing surface
 drawing_surface = pygame.Surface((WIDTH, DRAWING_HEIGHT))
