@@ -2,6 +2,7 @@
 
 Pixel Paint is a simple Pixel Art Drawing application built with Pygame.
 
+
 ## Features
 
 - Draw pixel art on a grid
