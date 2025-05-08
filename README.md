@@ -8,7 +8,6 @@ Pixel Paint is a simple Pixel Art Drawing application built with Pygame.
 - Select colors using RGB sliders
 - Save drawings as PNG files
 
-
 ## Installation
 
  How to clone the repository:
